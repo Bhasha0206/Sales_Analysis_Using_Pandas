@@ -1,0 +1,1 @@
+Analysis of 12 months' electronics sales data (hundreds of thousands of records) using Python Pandas & Matplotlib. Explores trends by month, product, cost & location. Insights & visualizations in Python Scripts.
